@@ -1,7 +1,7 @@
 {
   "name": "humblest",
-  "version": "0.0.1",
-  "description": "React Native +Web - framework, design system",
+  "version": "0.0.2",
+  "description": "React Native +Web - framework, design system  (DRAFT)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,10 +12,8 @@
   },
   "keywords": [
     "react",
-    "react",
     "native",
     "react-native",
-    "react",
     "native",
     "web",
     "react-native-web"
